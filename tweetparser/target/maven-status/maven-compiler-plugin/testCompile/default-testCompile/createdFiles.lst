@@ -1,0 +1,4 @@
+au/org/aurin/parsing/TweetCruncherIT.class
+au/org/aurin/parsing/TweetCruncherOptionsTest.class
+au/org/aurin/parsing/SentimentTest.class
+au/org/aurin/parsing/ParsingTest.class

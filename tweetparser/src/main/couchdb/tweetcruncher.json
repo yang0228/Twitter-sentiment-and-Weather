@@ -1,0 +1,8 @@
+{
+  "_id" : "_design/dev_tweetercruncher",
+  "views" : {
+    "byTimestamp" : {
+      "map" : "function(doc,meta) {\r\n  if (doc.lang == \"en\" && doc.geo) {\r\n    emit([new Date(doc.created_at)], {id: doc.id, location: doc.geo.coordinates, text: doc.text}); \r\n  }\r\n}"
+    }
+  }
+}

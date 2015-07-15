@@ -1,0 +1,3 @@
+"StationId","Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+086338,2014-04-1,17.9,33.1,0,,,NNW,39,12:48,22.2,63,,NNE,9,1016.1,32.6,28,,N,22,1012.2
+086338,2014-04-2,22.2,24.9,0,,,N,35,04:24,23.8,52,,N,17,1013.2,18.1,91,,S,13,1014.3
